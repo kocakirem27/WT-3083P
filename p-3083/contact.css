@@ -1,0 +1,27 @@
+.contact-bg {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 3rem;
+  width: 3rem;
+  font-size: 3rem;
+  text-align: center;
+}
+input {
+  width: 100%;
+  padding: 15px;
+  margin: 10px;
+  border: 1px solid #6d6875;
+  border-radius: 6px;
+}
+button {
+  border-radius: 6px;
+  cursor: pointer;
+}
+textarea {
+  width: 100%;
+  padding: 15px;
+  margin: 10px;
+  border: 1px solid #6d6875;
+  border-radius: 6px;
+}
